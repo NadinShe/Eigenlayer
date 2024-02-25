@@ -1,0 +1,12 @@
+"operator:
+ address: 0xE8EFDf5c43e9D841D85755B11565Cf0e715a1703
+  earnings_receiver_address: 0xE8EFDf5c43e9D841D85755B11565Cf0e715a1703
+  delegation_approver_address: 0x0000000000000000000000000000000000000000
+  staker_opt_out_window_blocks: 0
+  metadata_url: https://raw.githubusercontent.com/NadinShe/Eigenlayer/main/metadata.json
+el_delegation_manager_address: 0x1b7b8F6b258f95Cf9596EabB9aa18B62940Eb0a8
+eth_rpc_url: https://goerli.infura.io/v3/21577369ac0944549d59dc1a0a769769
+signer_type: local_keystore
+private_key_store_path: /root/.eigenlayer/operator_keys/NadinShe.ecdsa.key.json
+bls_private_key_store_path: /root/.eigenlayer/operator_keys/MaxShe.bls.key.json
+chain_id: 5"
